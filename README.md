@@ -1,117 +1,46 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=22C55E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abraham+Fikadu;Full-stack+Software+Engineer;Laravel+%26+MERN+Developer;Vision-driven+Builder" alt="Typing Header" />
-</h1>
-
-<h3 align="center">Building systems that serve people, honor legacy, and drive social impact.</h3>
+<h1 align="center">Hi 👋, I'm Abraham Fikadu</h1>
+<h3 align="center">Full-stack Software Engineer | Laravel & MERN Developer | Vision-driven Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Building+with+purpose;Code+that+serves+people;Honoring+legacy+through+technology;Ethical+tech+for+social+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Building+with+purpose;Code+that+serves+people;Honoring+legacy+through+technology;Ethical+tech+for+social+impact" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="https://github.com/Abr1999rhm">
-    <img src="https://komarev.com/ghpvc/?username=Abr1999rhm&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Abr1999rhm?tab=followers">
-    <img src="https://img.shields.io/github/followers/Abr1999rhm?style=social&label=Followers" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/sponsors/Abr1999rhm">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&style=flat-square&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Abr1999rhm&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Abr1999rhm?style=social" alt="GitHub followers" />
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
+## 🧠 About Me
 
-I'm a **full-stack developer** passionate about building systems that serve people, honor legacy, and drive social impact. I specialize in **Laravel**, **React (Vite)**, **Node.js**, and **MongoDB**, and I bring precision, empathy, and purpose to every line of code.
-
-- 🌍 Based in **Ethiopia**  
-- 🔭 Currently working on **Drug Finder Management System**  
-- 🌱 Learning **Machine Learning & AI**, **Blockchain**, **Rust**  
-- 👯 Looking to collaborate on **Open Source projects with social impact**  
-- 💬 Ask me about **Laravel, React, Node.js, MongoDB**  
-- 📫 Reach me at **fikaduabraha093@gmail.com**  
-- ⚡ Fun fact: **I believe code can change the world when written with purpose**  
+I'm a full-stack developer passionate about building systems that serve people, honor legacy, and drive social impact. I specialize in **Laravel**, **React (Vite)**, **Node.js**, and **MongoDB**, and I bring precision, empathy, and purpose to every line of code.
 
 > **Mission**: Empowering communities with ethical technology  
 > **Legacy**: Honoring my father Fikadu through meaningful software  
 > **Vision**: Blending technical mastery with social impact
 
----
-
 ## 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔬 Drug Finder Management System</h3>
-        <p align="center">
-          <a href="https://github.com/Abr1999rhm/drug-finder" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br>
-          <span>Pharmaceutical data management with real-time search, interaction checker, inventory tracking</span>
-          <br>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏠 Rental Management System</h3>
-        <p align="center">
-          <a href="https://github.com/Abr1999rhm/rental-management" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br>
-          <span>Full-stack property management platform for landlords and tenants</span>
-          <br>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/React_Vite-61DAFB?style=flat&logo=vite&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🖼️ AI Background Remover</h3>
-        <p align="center">
-          <a href="https://github.com/Abr1999rhm/ai-background-remover" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br>
-          <span>Intelligent image processing tool for automatic background removal</span>
-          <br>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">💼 Job Portal Platform</h3>
-        <p align="center">
-          <a href="https://github.com/Abr1999rhm/job-portal" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br>
-          <span>Scalable job listing and application management system</span>
-          <br>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🔬 Drug Finder Management System
+Pharmaceutical data management system with advanced search capabilities and inventory tracking.
+- **Tech**: Laravel, React, MySQL, Tailwind CSS
+- **Features**: Real-time search, drug interaction checker, inventory management
 
----
+### 🏠 Rental Management System
+Full-stack property management platform for landlords and tenants.
+- **Tech**: Laravel, React Vite, MongoDB, JWT Auth
+- **Features**: Property listings, tenant portal, payment processing, maintenance tracking
+
+### 🖼️ AI Background Remover
+Intelligent image processing tool for automatic background removal.
+- **Tech**: Python, OpenCV, TensorFlow, Flask
+- **Features**: Batch processing, API integration, multiple export formats
+
+### 💼 Job Portal Platform
+Scalable job listing and application management system.
+- **Tech**: MERN Stack (MongoDB, Express, React, Node.js)
+- **Features**: Advanced filtering, resume parsing, employer dashboard
 
 ## 🛠️ Tech Stack
 
@@ -176,50 +105,30 @@ I'm a **full-stack developer** passionate about building systems that serve peop
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
 ## 📊 GitHub Analytics
 
+<!-- Replace 'Abr1999rhm' with your actual GitHub username -->
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abr1999rhm&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abr1999rhm&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abr1999rhm&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abr1999rhm&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abr1999rhm&layout=compact&theme=radical&langs_count=10&hide=html,css,scss&hide_border=true" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abr1999rhm&layout=compact&theme=radical&langs_count=10&hide=html,css,scss" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abr1999rhm&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abr1999rhm&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</div>
-
----
-
 ## 🌟 Skills & Expertise
 
-- **Backend Development**: RESTful APIs, Microservices, Authentication, Database Design, System Architecture  
-- **Frontend Development**: React Ecosystem, Modern CSS, State Management, Responsive Design, PWA  
-- **Mobile Development**: React Native, Flutter, Android (Java/Kotlin), iOS (Swift)  
-- **DevOps & Cloud**: Docker, Kubernetes, CI/CD, AWS, GCP, Azure, Serverless  
-- **Data Science**: Python, R, Machine Learning, Data Analysis, Visualization  
-- **Game Development**: Unity, C#, C++, OpenGL, Graphics Programming
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Ethical AI: A Developer's Responsibility](https://medium.com/@...)
-- [Getting Started with Laravel and React Vite](https://dev.to/...)
-- [Why I Chose to Code for Social Impact](https://hashnode.com/...)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://medium.com/@...)
-
----
+**Backend Development**: RESTful APIs, Microservices, Authentication, Database Design, System Architecture  
+**Frontend Development**: React Ecosystem, Modern CSS, State Management, Responsive Design, PWA  
+**Mobile Development**: React Native, Flutter, Android (Java/Kotlin), iOS (Swift)  
+**DevOps & Cloud**: Docker, Kubernetes, CI/CD, AWS, GCP, Azure, Serverless  
+**Data Science**: Python, R, Machine Learning, Data Analysis, Visualization  
+**Game Development**: Unity, C#, C++, OpenGL, Graphics Programming
 
 ## 📫 Connect With Me
 
@@ -236,57 +145,29 @@ I'm a **full-stack developer** passionate about building systems that serve peop
   <a href="https://portfolio-website.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
-  <a href="https://dev.to/yourhandle">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
 </p>
-
----
 
 ## 💡 Currently Learning
-
-- **Machine Learning & AI** with TensorFlow, PyTorch, Scikit-learn  
-- **Blockchain Development** – Smart Contracts, Web3, DApps  
-- **Cloud Native Technologies** – Kubernetes, Serverless, Microservices  
-- **System Design & Architecture Patterns**  
+- **Machine Learning & AI** with TensorFlow, PyTorch, and Scikit-learn
+- **Blockchain Development** - Smart Contracts, Web3, DApps
+- **Cloud Native Technologies** - Kubernetes, Serverless, Microservices
+- **System Design & Architecture Patterns**
 - **Ethical AI & Responsible Technology**
 
----
-
 ## 🎯 2025-26 Goals
-
-- [x] Launch open-source community project for Ethiopian developers  
-- [ ] Contribute to 5+ major open-source projects  
-- [ ] Master advanced system design and distributed systems  
-- [ ] Build and deploy microservices architecture on Kubernetes  
-- [ ] Mentor 10+ aspiring developers from Africa  
-- [ ] Learn Rust and Go for systems programming  
-
----
-
-## 💖 Support Me
-
-If you like what I do, consider buying me a coffee or sponsoring me on GitHub!
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourhandle">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  <a href="https://github.com/sponsors/Abr1999rhm">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white" />
-  </a>
-</p>
+- [ ] Launch open-source community project for Ethiopian developers
+- [ ] Contribute to 5+ major open-source projects
+- [ ] Master advanced system design and distributed systems
+- [ ] Build and deploy microservices architecture on Kubernetes
+- [ ] Mentor 10+ aspiring developers from Africa
+- [ ] Learn Rust and Go for systems programming
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
 
 <p align="center">
   <i>"Technology is best when it brings people together and serves humanity."</i>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abr1999rhm/Abr1999rhm/output/snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Abr1999rhm&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
